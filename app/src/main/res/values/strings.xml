@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">WorldWideCooking</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="Italian">IT</string>
+    <string name="Turkish">TR</string>
+    <string name="Dutch">NL</string>
+    <string name="Serbian">SE</string>
+    <string name="German">DE</string>
+    <string name="Albanian">AL</string>
 </resources>
